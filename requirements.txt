@@ -6,3 +6,4 @@ gunicorn
 pytesseract
 playsound==1.2.2
 gTTS==2.2.3
+PyGObject
