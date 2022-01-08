@@ -1,0 +1,8 @@
+Flask==2.0.2
+PyPDF2==1.26.0
+googletrans==3.1.0a0
+opencv-python==4.5.4.60
+gunicorn
+pytesseract
+playsound==1.2.2
+gTTS==2.2.3
