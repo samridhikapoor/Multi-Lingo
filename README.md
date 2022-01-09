@@ -1,4 +1,4 @@
-MultiLingo - Translations you can trust
+# MultiLingo - Translations you can trust
 
 Introducing you to MULTILINGO, our All in one versatile web application for  your need of Language translation. As we Move towards various physical places, language is too crucial to exchange our thoughts and ideas. So our team has made translator that can not only translate documents but also images.. hassle-free using and has over 108 language translating capacity. Just Upload any of your official document or image and in seconds you will get your translated text.
 
