@@ -27,7 +27,7 @@ https://multi-lingo.herokuapp.com/
 ### clone the repo
 
 ```
-git clone https://github.com/NischayGoyal1/WhatThe_hAIck.git .
+git clone https://github.com/samridhikapoor/Multi-Lingo.git
 ```
 # install dependecies
 ```
