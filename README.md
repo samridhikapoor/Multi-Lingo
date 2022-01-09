@@ -1,4 +1,4 @@
-# Multi-Lingo# MultiLingo - Translations you can trust
+MultiLingo - Translations you can trust
 
 Introducing you to MULTILINGO, our All in one versatile web application for  your need of Language translation. As we Move towards various physical places, language is too crucial to exchange our thoughts and ideas. So our team has made translator that can not only translate documents but also images.. hassle-free using and has over 108 language translating capacity. Just Upload any of your official document or image and in seconds you will get your translated text.
 
@@ -45,7 +45,9 @@ python app.py
 
 ## Our Web Application
 
+<img width="960" alt="new" src="https://user-images.githubusercontent.com/83203229/148665178-a938d5d6-81f4-4964-9424-e6d81bdf92ef.PNG">
 
 
 ## Roger - The Morse Code Translator
 
+<img width="960" alt="Capture" src="https://user-images.githubusercontent.com/83203229/148665233-b1a5ba6e-c788-42ef-9c2e-07e3e66e6d89.PNG">
